@@ -2,15 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## Getting Started
+To get you started you can simply clone the repository:
 
-First:
-### `npm install`
+```
+git clone https://github.com/AlonsoHernandez99/timer-app.git
+```
+and install the dependencies
+```
+npm install
+```
+### Run the Application
 
-After:
+The project is preconfigured with a simple development web server. The simplest way to start this server is:
+
 ### `npm start`
-
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
